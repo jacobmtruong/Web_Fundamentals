@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 20px;
+}
+
+h1{
+    width: 100%;
+    font-family: 'Fascinate', cursive;
+    padding: 10px;
+    height: fit-content;
+    color: aliceblue;
+    background-color: black;
+    margin: 10px;
+}
+h2{
+    width: 100%;
+    font-style: italic;
+    text-align: center;
+    margin: 10px;
+    height: fit-content;
+    background-color: blueviolet;
+}
+h3{
+    width: 100%;
+    text-decoration: underline;
+    padding: 10px;
+    color: blueviolet;
+    text-align: right;
+    margin: 10px;
+    height: fit-content;
+    background-color: rgb(73, 233, 241);
+}
+
